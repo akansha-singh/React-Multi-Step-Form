@@ -6,7 +6,7 @@ import AppBar from 'material-ui/AppBar';
 export class Success extends Component {
     
     render() {
-        const {values, handleChange} = this.props;
+        
         return (
             <MuiThemeProvider>
                 <React.Fragment>
